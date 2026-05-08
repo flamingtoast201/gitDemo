@@ -14,4 +14,8 @@ git checkout <branchName> // Changes the branch we are on.
 
 git log // Gives a history of all the commits.
 clear // Removes all the interface in the terminal
+
+git remote add <origin> <url> // the name is origin. The URL will be provided to us. 
+git remote add origin https://github.com/flamingtoast201/gitDemo.git
+git push origin main // Matters which branch goes up first. 
 ```
