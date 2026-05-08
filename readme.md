@@ -3,7 +3,7 @@
 ```
 git init // Creates a new repository
 git add <fileName> // Adds single file to stage
-git add -A // Adds all changes to the stage
+git add -A // Adds all changes to the stage, Also adds removal of files as well. 
 git commit -m '<msg>' // Performs a commit 
 git branch // Creates a branch
 git checkout -b '<branchName>' // Creates and checksout a new branch.
