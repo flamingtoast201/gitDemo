@@ -19,4 +19,6 @@ git remote add <origin> <url> // the name is origin. The URL will be provided to
 git remote add origin https://github.com/flamingtoast201/gitDemo.git
 git push origin main // Matters which branch goes up first. 
 git pull origin <branchName> // Gets and pulls the origin
+
+git reset --hard <wholeCommitId or Tag> // sends you back to a previous version. 
 ```
