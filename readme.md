@@ -21,4 +21,5 @@ git push origin main // Matters which branch goes up first.
 git pull origin <branchName> // Gets and pulls the origin
 
 git reset --hard <wholeCommitId or Tag> // sends you back to a previous version. 
+git push --force // Pushes regardless of whats going on. Only when you know your current version is the right version.
 ```
