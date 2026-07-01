@@ -22,8 +22,6 @@ git pull origin <branchName> // Gets and pulls the origin
 
 git reset --hard <wholeCommitId or Tag> // sends you back to a previous version. 
 git push --force // Pushes regardless of whats going on. Only when you know your current version is the right version.
-```
-
 
 ASpicer@Desktop-SpicerAlexander MINGW64 /c/Unity/School/Project and Portfolio2/StudentProject (spicerDev)
 $ git checkout safety
@@ -46,3 +44,5 @@ Switched to branch 'spicerDev'
 Your branch is up to date with 'origin/spicerDev'.
 
 ASpicer@Desktop-SpicerAlexander MINGW64 /c/Unity/School/Project and Portfolio2/StudentProject (spicerDev)
+
+```
