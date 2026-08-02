@@ -1,6 +1,7 @@
 #Cmds
 
 ```
+rm .git/index.lock // removes locks placed into the annoying git. 
 git init // Creates a new repository
 git add <fileName> // Adds single file to stage
 git add -A // Adds all changes to the stage, Also adds removal of files as well. 
