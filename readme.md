@@ -1,6 +1,31 @@
+
+
 #Cmds
 
 ```
+How to Start Day
+Open Github
+Swap to Safety
+git commit safety
+git pull origin safety
+
+Then
+checkout your dev branch
+git checkout tinkDev
+git merge safety
+This will merge safety into your dev branch.
+
+To finish the day
+From yours push
+then
+git checkout safety
+git commit safety
+git pull origin safety
+git merge tinkDev
+git push origin safety
+
+
+
 rm .git/index.lock // removes locks placed into the annoying git. 
 git init // Creates a new repository
 git add <fileName> // Adds single file to stage
